@@ -21,6 +21,8 @@ Built without frameworks. Designed for secure, scalable backends.
 
 ## 🔒 Important
 
+This is a commercial product. The public repository exists for documentation and overview purposes only.
+
 This repository is a **public overview repository only**.  
 It does **NOT** contain the commercial source code.
 
