@@ -7,6 +7,9 @@ It implements short-lived access tokens, refresh token rotation, database-backed
 
 The project is designed as a reusable authentication core that can be integrated into SaaS platforms, admin panels, mobile backends, or any PHP API environment.
 
+* Website: https://securecoreauth.com
+* Live API Demo: https://securecoreauth.com/demo/api-test.html
+
 ---
 
 # Key Features
