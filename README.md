@@ -29,19 +29,19 @@ The project is designed as a reusable authentication core that can be integrated
 The system is organized using a layered architecture to keep responsibilities clearly separated.
 
 ```
---> Client
-
---> Router
---> 
---> Middleware
---> 
---> Controller
---> 
---> Service
---> 
---> Repository
---> 
---> Database
+Client
+   ↓
+Router
+   ↓
+Middleware
+   ↓
+Controller
+   ↓
+Service
+   ↓
+Repository
+   ↓
+Database
 ```
 
 This structure ensures that authentication logic remains reusable and scalable across different applications.
